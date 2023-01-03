@@ -1,0 +1,71 @@
+[02-Jul-2020 08:08:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onls8664/public_html/radar/db.php on line 6
+[12-Jul-2020 10:28:24 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:28:24 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:28:24 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:28:39 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:28:39 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:28:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:28:39 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:30:13 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:30:13 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:30:13 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:30:13 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:32:33 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:32:33 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:32:33 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:05 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:05 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:05 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:15 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:15 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:15 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:15 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:33:21 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:21 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:40 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:40 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:33:40 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:39:02 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:39:02 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:39:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:39:09 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:39:09 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:39:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:39:09 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:40:17 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:40:17 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:40:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:40:21 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:40:21 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:40:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:40:21 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:42:33 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:42:33 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:42:33 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:42:40 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:42:40 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:42:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:42:40 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:46:04 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:46:04 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:46:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:47:31 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:47:31 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:47:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:47:38 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:47:38 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:47:38 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:04 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:04 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:04 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:48:12 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:12 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:12 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:48:12 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
+[12-Jul-2020 10:49:26 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:49:26 Asia/Jakarta] PHP Warning:  include(php/db.php): failed to open stream: No such file or directory in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:49:26 Asia/Jakarta] PHP Warning:  include(): Failed opening 'php/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onls8664/public_html/radar/login.php on line 2
+[12-Jul-2020 10:49:26 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/onls8664/public_html/radar/login.php on line 9
